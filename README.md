@@ -8,6 +8,6 @@
 #3=>Draw rainbow using turtle 
 
 
-#4=>Using num input take number of petals to draw a flower 
-    Draw a corona symbol
+#4=>1-Using num input take number of petals to draw a flower 
+    2-Draw a corona symbol
 
